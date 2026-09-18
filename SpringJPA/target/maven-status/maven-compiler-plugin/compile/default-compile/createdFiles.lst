@@ -1,0 +1,5 @@
+com\example\SpringJPA\Controller\foodController.class
+com\example\SpringJPA\Repository\FoodRepository.class
+com\example\SpringJPA\Service\FoodService.class
+com\example\SpringJPA\Model\Food.class
+com\example\SpringJPA\SpringJpaApplication.class
